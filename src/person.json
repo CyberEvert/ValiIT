@@ -1,0 +1,53 @@
+[
+  {
+    "name": "John",
+    "age": "30",
+    "address": "Tina1",
+    "kids": [
+      {
+        "name": "Jonny",
+        "age": 2,
+        "isUnderAge": true
+      },
+      {
+        "name": "Peter",
+        "age": 3,
+        "isUnderAge": true
+      }
+    ]
+  },
+  {
+    "name": "Liina",
+    "age": "31",
+    "address": "Tina2",
+    "kids": [
+      {
+        "name": "Jaan",
+        "age": 18,
+        "isUnderAge": false
+      },
+      {
+        "name": "Pets",
+        "age": 19,
+        "isUnderAge": false
+      }
+    ]
+  },
+  {
+    "name": "Josep",
+    "age": "32",
+    "address": "Tina3",
+    "kids": [
+      {
+        "name": "Mat",
+        "age": 5,
+        "isUnderAge": true
+      },
+      {
+        "name": "Beatrice",
+        "age": 7,
+        "isUnderAge": true
+      }
+    ]
+  }
+]

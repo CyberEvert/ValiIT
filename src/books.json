@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Something",
+      "rating": 99
+    },
+    {
+      "title": "Nothing",
+      "rating": 12
+    },
+    {
+      "title": "Maybe",
+      "rating": 67
+    }
+  ]
+}

@@ -2,7 +2,8 @@ package daytwo;
 
 public class Harjutused {
     public static void main(String[] args) {
-        /*     String manager = "John";
+        /*
+        String manager = "John";
         System.out.println(manager);
         int lengthofmanager = manager.length();
         System.out.println(lengthofmanager);
@@ -17,9 +18,11 @@ public class Harjutused {
          */
 
         //1.Hello world
-/*
+
+        /*
         System.out.println("Hello World");
-*/
+        */
+
         //2. Simple Calculator – (Use Scanner)
         //Task: Write a program that takes two numbers from the user and performs basic arithmetic operations
         // (addition, subtraction, multiplication, and division).
@@ -76,6 +79,8 @@ public class Harjutused {
             System.out.println(thirdNumber + " is the greatest number.");
         }
         */
+
+
 
     }
 }

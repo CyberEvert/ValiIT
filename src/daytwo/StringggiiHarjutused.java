@@ -81,5 +81,17 @@ public static void main(String[] args) {
     String result = sentence.replace(oldword, newword);
     System.out.println(result);
 */
+    //System.out.println(equalsIgnoreCase) ignoreerib tähe suurust
+    //System.out.println(equalCase) arvestab tähe suurust
+
+    //Escape Sequences
+    // \b - backspace
+    // \t - tab
+    // \n - newline
+    // \r - carriage return
+    // \” - double quote
+    // \’ - single quote
+    // \\ - backslash
+
 }
 }
