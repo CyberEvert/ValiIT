@@ -48,6 +48,7 @@ public static void main(String[] args) {
     String str = "Hello, world!";
     String start = "Hello";
     String end = "world!";
+    System.out.println(str.startsWith(start) && str.endsWith(end));
 */
     //Exercise 7: Extract a Substring Between Two Indices
     //Problem: Write a program that extracts a substring from a given string between two specified indices.
