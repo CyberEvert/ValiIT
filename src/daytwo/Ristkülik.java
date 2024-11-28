@@ -1,6 +1,5 @@
 package daytwo;
 
-
 public class Ristkülik {
 
     //TODO - loo uus meetod nimetusega private static void getArea() mis arvutab ristküliku pindala
@@ -9,9 +8,10 @@ public class Ristkülik {
     //TODO - kutsu checkArea() meetod välja getArea() meetodist
     //TODO - prindi konsooli "Area is bigger than 20" kui pindala suurus ületab 20 ja "Area is smaller than 20"
 
-    public static void main(String[] args) {
-        int a = 4;
-        int b = 5;
+
+    private static void main (String[] args) {
+    int a = 4;
+    int b = 5;
         getArea(a, b);
     }
 
